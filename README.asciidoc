@@ -72,4 +72,7 @@ Loss-less means it will not mess up tuple and list, nor atom and hashmap key
   - [x] move js to bon-js
   - [x] move erl to bon-erl
   - [x] add links to implementation (library) in readme
-. [ ] Implement Golang library
+. Implement in more programming langauges
+  - [ ] Golang
+  - [ ] Java
+
