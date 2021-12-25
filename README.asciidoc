@@ -54,10 +54,22 @@ Loss-less means it will not mess up tuple and list, nor atom and hashmap key
 | set group       | [ 42 3.14 "str" s
 |==============================
 
+== Implementations ==
+
+.Library implemented in different programming langauge
+|====================================
+| Programming Langauge | Library Repo
+
+| Erlang
+| https://github.com/bon-org/bon-erlang
+
+| Javascript/Typescript
+| https://github.com/bon-org/bon-js
+|====================================
 
 == TODO ==
-. Migrate the repo into personal to org
-  - [ ] move js to bon-js
-  - [ ] move erl to bon-erl
-  - [ ] add links to implementation (library) in readme
-. Implement Golang library
+. Migrate the repo from personal to org
+  - [x] move js to bon-js
+  - [x] move erl to bon-erl
+  - [x] add links to implementation (library) in readme
+. [ ] Implement Golang library
